@@ -1,0 +1,7 @@
+id = "binaryleo-zed-theme"
+name = "BinaryLeo Theme"
+version = "0.0.1"
+schema_version = 1
+authors = ["BinaryLeo <leomouracss@fastmail.com>"]
+description = "A custom dark theme for Zed"
+repository = "https://github.com/binaryleo/binaryleo-zed-theme"
